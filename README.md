@@ -16,3 +16,4 @@ Disini juga sudah menggunakan Authentikasi dan sudah ada chat realtime menggunak
 ![forgot ass](https://user-images.githubusercontent.com/53321389/96069676-e1d4cd80-0ec8-11eb-974e-460a69584c92.PNG)
 ![landing](https://user-images.githubusercontent.com/53321389/96069680-e305fa80-0ec8-11eb-92e5-614a37930faf.PNG)
 ![profile](https://user-images.githubusercontent.com/53321389/96074307-8e677d00-0ed2-11eb-9670-eced87750029.PNG)
+![chat](https://user-images.githubusercontent.com/53321389/96074570-341aec00-0ed3-11eb-8516-9a0a494a2f2f.PNG)
